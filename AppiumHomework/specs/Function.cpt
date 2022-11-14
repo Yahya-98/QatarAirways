@@ -1,0 +1,20 @@
+Created by testinium on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# Ana sayfanin geldigi kontrol edilir
+* Bildirimleri kabul et ve anasayfanın geldigini kontrol et
+
+# Book sayfasina gecis yapilir
+* Book sayfasına geçic yap
+
+# Tek yon secimi yapılır
+* Tek yön secimi yap
+
+# Gidis dönüs bilgileri girilir
+* Kalkış "Berlin" , iniş "istanbul" secilir
+* Gidis tarihi bu günden "7" sonraki gün secilir
+
+# Ucus secilir
+* Ucus aranir
+* Ucak secilir
+* Ucus saatleri kontrol edilir
